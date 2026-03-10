@@ -1,3 +1,50 @@
+# Backend - ETP Systems
+
+Esta pasta contém o **Back-end do sistema ETP Systems**.
+
+O back-end é responsável por toda a **lógica da aplicação**, comunicação com o banco de dados e fornecimento de dados para o front-end através de **APIs**.
+
+---
+
+## 📌 Responsabilidades do Back-end
+
+- Implementar as **regras de negócio** do sistema
+- Gerenciar **usuários e autenticação**
+- Controlar **cursos e progresso dos usuários**
+- Conectar com o **banco de dados**
+- Fornecer **APIs para o Front-end**
+
+---
+
+## ⚙️ Tecnologias previstas
+
+O projeto pode utilizar uma das seguintes tecnologias:
+
+- **Java + Spring Boot**
+ou
+- **Node.js**
+
+Banco de dados:
+
+- **MySQL**
+
+---
+
+## 📂 Estrutura inicial sugerida
+backend
+│
+├── src
+│
+├── controllers
+│
+├── services
+│
+├── models
+│
+├── repositories
+│
+└── config
+
 ### Descrição das pastas
 
 **controllers**  
