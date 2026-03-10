@@ -1,149 +1,113 @@
-ETP Systems - Learning Platform for Corporate Training
+# ETP Systems
+### Plataforma de Aprendizagem para Treinamento Corporativo
 
-ETP Systems
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Projeto Acadêmico](https://img.shields.io/badge/projeto-acadêmico-blue)
+![Backend](https://img.shields.io/badge/backend-Java%20%7C%20Node.js-orange)
+![Frontend](https://img.shields.io/badge/frontend-React%20%7C%20Flutter-blue)
+![Database](https://img.shields.io/badge/database-MySQL-lightgrey)
 
-📚 Sobre o Projeto
+Projeto acadêmico desenvolvido no curso de **Análise e Desenvolvimento de Sistemas** na disciplina **Projeto Integrador (PIN)**.
 
-O ETP Systems é uma plataforma educacional desenvolvida para apoiar o desenvolvimento profissional de colaboradores do Banco do Brasil.
+---
 
-O sistema oferece trilhas de aprendizado, treinamentos e certificações, ajudando novos funcionários a adquirirem experiência prática e permitindo que colaboradores mais experientes evoluam em suas carreiras.
+# 📚 Sobre o Projeto
 
-A proposta é tornar o aprendizado dentro da organização mais acessível, estruturado e alinhado com os objetivos estratégicos da instituição. 
+O **ETP Systems** é uma plataforma educacional desenvolvida para apoiar o desenvolvimento profissional de colaboradores do **Banco do Brasil**.
 
-02ff5b5c-d587-4570-b95c-dac323a…
+A plataforma oferece **trilhas de aprendizado, treinamentos e certificações**, ajudando novos colaboradores a adquirirem experiência prática e permitindo que profissionais mais experientes evoluam em suas carreiras dentro da organização.
 
-🎯 Objetivos do Projeto
+O objetivo é tornar o aprendizado corporativo **mais acessível, organizado e alinhado com os objetivos estratégicos da instituição**.
 
-Fortalecer a capacitação interna dos colaboradores
+---
 
-Oferecer trilhas de aprendizado organizadas
+# 🎯 Objetivos do Projeto
 
-Apoiar promoções por mérito
+- Fortalecer a **capacitação interna** dos colaboradores  
+- Oferecer **trilhas de aprendizado estruturadas**  
+- Apoiar **promoções por mérito**  
+- Aumentar a **retenção de talentos**  
+- Reduzir custos com **recrutamento externo**  
+- Alinhar o desenvolvimento profissional às **metas estratégicas do banco**
 
-Aumentar a retenção de talentos
+---
 
-Reduzir custos com recrutamento externo
+# 👥 Integrantes do Projeto
 
-Alinhar o desenvolvimento profissional às metas do banco 
+- Leonardo  
+- Miguel  
+- Nicolas  
+- Matheus  
+- Rafael  
+- Vinicius  
 
-02ff5b5c-d587-4570-b95c-dac323a…
+---
 
-👥 Integrantes do Projeto
+# 🖥️ Funcionalidades do Sistema
 
-Leonardo
+## 🔐 Autenticação
+- Cadastro de usuário  
+- Login com senha  
+- Login social  
 
-Miguel
+## 📊 Dashboard
+- Acesso rápido aos cursos disponíveis  
+- Visualização do progresso do usuário  
 
-Nicolas
+## 🎓 Cursos
+- Lista de cursos disponíveis  
+- Busca e filtros de conteúdo  
+- Acompanhamento de cursos em andamento  
 
-Matheus
+---
 
-Rafael
+# 🧱 Arquitetura do Sistema
 
-Vinicius
+O sistema será dividido em **três camadas principais**.
 
-🖥️ Funcionalidades do Sistema
+## Front-end
+Responsável pela **interface do usuário** e comunicação com a API.
 
-O sistema possui as seguintes funcionalidades principais:
+## Back-end
+Responsável pelas **regras de negócio**, autenticação e gerenciamento de usuários e cursos.
 
-🔐 Autenticação
+## Banco de Dados
+Responsável pelo **armazenamento das informações da aplicação**.
 
-Cadastro de usuário
+---
 
-Login com senha
+# ⚙️ Tecnologias Utilizadas
 
-Login social
+## Front-end
+- React  
+ou  
+- Flutter Web  
 
-📊 Dashboard
+## Back-end
+- Node.js  
+ou  
+- Java Spring Boot  
 
-Acesso rápido aos cursos disponíveis
+## Banco de Dados
+- MySQL  
 
-Visualização do progresso do usuário
+## Autenticação
+- OAuth 2.0  
+- Login social  
 
-🎓 Cursos
+## Hospedagem
+- AWS  
+ou  
+- Azure  
 
-Lista de cursos disponíveis
+## Prototipação
+- Figma  
 
-Busca e filtros de conteúdo
+---
 
-Acompanhamento de cursos em andamento
+# 🚀 Como Executar o Projeto
 
-🧱 Arquitetura (Visão Geral)
+## 1️⃣ Clonar o repositório
 
-O sistema será dividido em três camadas principais:
-
-Front-end
-
-Interface do usuário
-
-Consumo da API
-
-Back-end
-
-Regras de negócio
-
-Gerenciamento dos cursos e usuários
-
-Banco de Dados
-
-Armazenamento das informações do sistema
-
-⚙️ Tecnologias Utilizadas
-Front-end
-
-React
-ou
-
-Flutter Web
-
-Back-end
-
-Node.js
-ou
-
-Java Spring Boot
-
-Banco de Dados
-
-MySQL
-
-Autenticação
-
-OAuth 2.0
-
-Login social
-
-Hospedagem
-
-AWS
-ou
-
-Azure
-
-Prototipação
-
-Figma 
-
-02ff5b5c-d587-4570-b95c-dac323a…
-
-🚀 Como Executar o Projeto
-1️⃣ Clonar o repositório
+```bash
 git clone https://github.com/seu-usuario/etp-systems.git
-2️⃣ Entrar na pasta do projeto
-cd etp-systems
-3️⃣ Instalar dependências
-
-Exemplo (Node.js):
-
-npm install
-4️⃣ Executar o projeto
-npm start
-📌 Status do Projeto
-
-🚧 Em desenvolvimento
-Projeto acadêmico desenvolvido na disciplina Projeto Integrador (PIN).
-
-📄 Licença
-
-Este projeto foi desenvolvido para fins educacionais.
-
